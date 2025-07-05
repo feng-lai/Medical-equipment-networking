@@ -1,0 +1,20 @@
+{
+  "appid": "wx755d909b3b5c8635",
+  "attach": "{\"order_uuid\":\"a4e6322b5294b39ba980c649560c5fde\",\"order_type\":\"goods\"}",
+  "bank_type": "OTHERS",
+  "cash_fee": "1",
+  "device_info": "APP",
+  "fee_type": "CNY",
+  "is_subscribe": "N",
+  "mch_id": "1610066396",
+  "nonce_str": "Qi5TrW78vPfCjWJptbYDwRWHVkWlaGTc",
+  "openid": "oHA3p5Ait8mWTNvFF0FH-Qgyc2yc",
+  "out_trade_no": "2022030823184840063",
+  "result_code": "SUCCESS",
+  "return_code": "SUCCESS",
+  "sign": "98E98DE066D33CC971B37C0AE9294342",
+  "time_end": "20220308231924",
+  "total_fee": "1",
+  "trade_type": "JSAPI",
+  "transaction_id": "4200001324202203086320887377"
+}
