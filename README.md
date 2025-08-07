@@ -1,6 +1,7 @@
 # Medical Equipment Networking
 
 A modular and scalable hospital-grade system built with **ThinkPHP 5.1**, designed to manage the lifecycle of medical equipment—from on‑site monitoring and fault reporting to maintenance scheduling and data analytics.
+[日本語](README-jp.md) | [العربية](README-ar.md) | [Português](README-pt.md) | [Español](README-es.md)
 
 ---
 
@@ -157,3 +158,4 @@ Licensed under the [Apache‑2.0 License](LICENSE.txt).
 ---
 
 **Medical Equipment Networking** – Bringing real-time device intelligence to your hospital infrastructure 🚑
+
